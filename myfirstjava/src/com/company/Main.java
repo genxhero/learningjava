@@ -1,4 +1,4 @@
-package com.company;
+package myfirstjava.src.com.company;
 
 public class Main {
 
